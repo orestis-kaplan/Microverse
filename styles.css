@@ -1,49 +1,9 @@
-/*.header{
-  width:1600px;
-  height:700px;
-  background-image:url("Images/png/colorful-header.png");
-  text-align: center;
-  position:relative;
-}*/
-.Meet-Edd {
-  width: 128px;
-  height: 40px;
-  font-family: SourceSansPro;
-  font-size: 32px;
-  font-weight: 300;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  text-align: center;
-  color: #3c4a54;
-  position: relative;
-  top:114px;
-}
-.Fast-minimal-and-su {
-  width: 333px;
-  height: 23px;
-  font-family: SourceSansPro;
-  font-size: 18px;
-  font-weight: 300;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  text-align: center;
-  color: #7b8f9d;
-  position: relative;
-  top: 166px;
-}
-.Colorful-header {
-  width: 1600px;
-  height: 700px;
-  object-fit: contain;
-  background-image: linear-gradient(to right, #4effdf, #49bede 51%, #f47ec6);
-}
+#img-div {
+  width: 100%;
+  height:100%;
 
-.Header-bg {
-  width: 1600px;
-  height: 700px;
-  background-image: linear-gradient(66deg, #e5e8f5, #efeff8 50%, #fffcff);
+}
+#img-div img{
+  display:block;
+  margin:auto;
 }
